@@ -27,7 +27,6 @@ scissors = '''
 ---.__(___)
 '''
 
-#Write your code below this line 👇
 img = [rock,paper,scissors]
 
 player = int(input('What do you choose? Tye - for Rock, 0 for Paper or 1 for Scissors 2.'))
